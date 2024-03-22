@@ -1,8 +1,7 @@
 <!--
 
-    Autor: Fabricio Vidal
-    Data Inicio: 20/11/2021
-    Data Ultima Atualizacao: 07/12/2021
+    Autor: Carla Gonçalves
+    Data: 02/01/2023
 
 -->
 
